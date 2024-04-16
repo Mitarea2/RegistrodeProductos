@@ -1,0 +1,38 @@
+package Controlador;
+
+import Modelo.ListadoProductos;
+import Vista.frm_Registro_Productos;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+
+/**
+ *
+ * @author DELL
+ */
+public class Controlador_frm_Registrar_Producto implements ActionListener{
+    frm_Registro_Productos frm_rp;
+
+    public Controlador_frm_Registrar_Producto(frm_Registro_Productos frm_rp) {
+        this.frm_rp = frm_rp;
+        this.frm_rp.btnguardar.addActionListener(this);
+    }
+
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        if(e.getSource()==frm_rp.btnguardar){
+            ListadoProductos lp=new ListadoProductos();
+            lp.MostrarTable(frm_rp.Productos);
+            limpiarentradas();
+        }
+    }
+    
+    private void limpiarentradas(){
+        frm_rp.txtproducto.setText("");
+        frm_rp.txtcantidad.setText("");
+        frm_rp.txtprecio.setText("");
+        
+        
+    }
+    
+}
