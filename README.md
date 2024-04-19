@@ -30,14 +30,14 @@ Crear un programa donde se registren los productos y  les genere un listado para
 ## La base de datos se encuentra alojada por medio de <sub>XAMPP</sub> 
 [la base de datos se encuentra en <sub>phpMyadmin</sub>](https://github.com/Mitarea2/RegistrodeProductos/edit/main/README.md#tabla-de-contenidos)
 - Paquetes
+## Este proyecto fue trabajado en NETBEANS
 - Java
 
+## El proyecto esta elaboracion en Java
+
 ***Instalacion***
-- Ambiente de desarrollo
-- Pruebas
+## la instalacion se hara en una computadora con el ambiente de desarrollo de para aumentar la efectividad del registro
   
-***Configuracion***
-- Proyecto
 
 ***Uso***
 - Usuario final
