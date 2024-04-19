@@ -23,4 +23,37 @@ Crear un programa donde se registren los productos y  les genere un listado para
 ![image](https://github.com/Mitarea2/RegistrodeProductos/assets/157772104/54eff5dc-58bc-40e5-80ce-1949c7e52880)
 
 
+## Tabla de contenidos
+
+***Requerimientos***
+- Base de datos
+## La base de datos se encuentra alojada por medio de <sub>XAMPP</sub> 
+[la base de datos se encuentra en <sub>phpMyadmin</sub>](https://github.com/Mitarea2/RegistrodeProductos/edit/main/README.md#tabla-de-contenidos)
+- Paquetes
+- Java
+
+***Instalacion***
+- Ambiente de desarrollo
+- Pruebas
+  
+***Configuracion***
+- Proyecto
+
+***Uso***
+- Usuario final
+
+## El usurario final actualmente sera el dueño el encargado de hacer el requistro de los productos, al contratar mas persoal el dueño podra dar accesos al personal encargado y se controlara la informacion de quien hiso los cambios. 
+
+***Contribucion***
+- Guia para el usuario
+  ## En este proyecto el usuario no tendra ninguna dificultal para manejarlo ya que es un sistema muy amigable
+  ## No cuenta con una contraseña porque en este momento es solo para generar el listado de productos y se tenja el mejor manejo de la informacion
+    
+  
+
+***Roadmap*** 
+- Requerimientos
+## Los requerimientos a futuro sera agregar la parte de incluir contraseña ya que los productos esten todos cargados a la fecha para que un futuro este ya pueda tener un administrador del proyecto.
+
+
 
